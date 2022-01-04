@@ -1,3 +1,2 @@
 # Introduction
----
-Welcome to my first github page
+Hey there my name is Rishab Jain
