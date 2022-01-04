@@ -5,10 +5,8 @@ Currently pursuing Bachelors in *Computer Science Engineering* at [Atria Institu
 
 # Languages/Softwares 
 * Python
-  * Pycharm
-  * SQLite3
-  * Pyrogram
-  * requests
+  * [SQLite3](https://docs.python.org/3/library/sqlite3.html)
+  * [Pyrogram](https://docs.pyrogram.org/)
 * SQL
 
 Courses i have taken are over here [Courses](https://github.com/DogCanBYTE/DogCanBYTE.github.io/blob/main/links.md)
