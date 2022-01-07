@@ -9,4 +9,4 @@ Currently pursuing Bachelors in *Computer Science Engineering* at [***Atria Inst
   * [***Pyrogram***](https://docs.pyrogram.org/)
 * SQL
 
-Courses i have taken are over here ***[Courses](https://github.com/DogCanBYTE/DogCanBYTE.github.io/blob/main/links.md)
+Courses i have taken are over here [Courses](https://github.com/DogCanBYTE/DogCanBYTE.github.io/blob/main/links.md)
