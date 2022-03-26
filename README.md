@@ -3,7 +3,7 @@ Hey there, my name is ***Rishab Jain***\
 I'm from Bangalore, India 🇮🇳\
 Currently pursuing Bachelors in *Computer Science Engineering* at [***Atria Institute of Technology***](https://www.google.com/search?q=atria+institute+of+technology)\
 \
-***I Code to make my Life EASIER!***\
+***I Code to make my Life EASIER!***
 
 # Languages/Softwares 
 * Python
